@@ -9,8 +9,14 @@ subtração = a - b
 multiplicação = a * b
 
 print("Soma =" , soma
-print("Subtração = , subtração)
-print("Multiplicação = , multiplicação)
+print("Subtracao = , subtracao)
+print("Multiplicacao = , multiplicacao)
+
+
+
+
+
+
 
 
 
