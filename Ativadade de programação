@@ -1,0 +1,16 @@
+python
+print ("hello word")
+
+a = 6
+b = 2
+
+soma = a + b
+subtração = a - b
+multiplicação = a * b
+
+print("Soma =" , soma
+print("Subtração = , subtração)
+print("Multiplicação = , multiplicação)
+
+
+
